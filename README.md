@@ -1,5 +1,9 @@
 # I'm Talking 🤠
 
+I'm a Full Stack Software Engineer and I love to make things that works!
+
+If you want to learn more about me, feel free to visit atakanzen.com or contact me right away from here.
+
 <b>Music is Everything!</b><br>
 This is my spotify last listened piece
 
