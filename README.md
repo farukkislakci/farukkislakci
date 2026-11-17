@@ -1,17 +1,37 @@
-# Hello World 🤠
+# Hey, I'm Ömer Faruk 👋
 
-I'm a Computer Engineer and I love to make things that works!
+**Full-Stack Product Engineer | AI-Powered Products | Creative Technology**
 
-Working on some game projects. Tune in...
+I build products that turn complex ideas into simple, meaningful experiences.
 
-If you want to learn more about me, feel free to visit github page or contact me right away from here.
+I'm a Computer Engineer with a passion for building things from the ground up — from scalable platforms and AI-driven creative tools to multiplayer games and real-time applications.
 
-<b>Music is Everything!</b><br>
-This is my spotify last listened piece
+Currently working at **TRT**, developing next-generation tools for digital content creation, media workflows, and automation.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=omermarvel&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=omermarvel&redirect=true)
+### What I'm Into
 
-# Summary
-<img src="https://img.shields.io/github/license/omermarvel/github-profilinator?style=for-the-badge"> <img src="https://img.shields.io/github/forks/omermarvel/github-profilinator?style=for-the-badge"> <img src="https://img.shields.io/github/stars/omermarvel/github-profilinator?style=for-the-badge"> <img src="https://img.shields.io/github/issues/omermarvel/github-profilinator?style=for-the-badge"> <img src="https://img.shields.io/github/issues-pr/omermarvel/github-profilinator?style=for-the-badge"> <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png">
+- **AI & Creative Tools** — Building intelligent systems that make content creation faster, smarter, and more accessible.
+- **Full-Stack Engineering** — Designing and developing complete products, from architecture to user experience.
+- **Real-Time Systems** — Working with live media, streaming technologies, and collaborative workflows.
+- **Game Development** — Exploring multiplayer experiences, game mechanics, and performance optimization.
+- **Product Design** — Making powerful technology feel effortless to use.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+### My Philosophy
+
+> Great engineering isn't just about making things work. It's about making complex things feel simple.
+
+I enjoy taking ambitious ideas, figuring out how to make them possible, and turning them into products people actually want to use.
+
+### Beyond Code 🎸
+
+Music is a big part of my life. I'm always exploring new sounds, discovering artists, and finding inspiration somewhere between technology and creativity.
+
+**Recently played on Spotify**
+
+[![Spotify Recently Played](https://spotify-github-profile.vercel.app/api/view?uid=omermarvel&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=omermarvel&redirect=true)
+
+---
+
+**Always building. Always learning. Always curious.**
+
+Feel free to explore my repositories or reach out if you're working on something interesting.
